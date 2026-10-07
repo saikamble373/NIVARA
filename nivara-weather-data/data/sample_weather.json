@@ -1,0 +1,10 @@
+{
+  "location": "Mumbai",
+  "temp": 28,
+  "humidity": 85,
+  "rainfall_mm": 45,
+  "forecast_probability": 0.8,
+  "wind_speed": 15,
+  "condition": "Heavy Rain",
+  "description": "Heavy rainfall expected with high flood risk"
+}

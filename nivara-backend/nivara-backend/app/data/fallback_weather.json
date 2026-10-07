@@ -1,0 +1,13 @@
+{
+  "rainfall_mm": 18.5,
+  "forecast_rainfall_mm": 32.0,
+  "temperature_c": 27.5,
+  "wind_kmph": 14.0,
+  "precipitation_probability": 78.0,
+  "hourly": [
+    {"time": "+1h", "rainfall_mm": 22.0, "temperature_c": 27.0, "precipitation_probability": 80},
+    {"time": "+2h", "rainfall_mm": 30.0, "temperature_c": 26.5, "precipitation_probability": 85},
+    {"time": "+3h", "rainfall_mm": 35.0, "temperature_c": 26.0, "precipitation_probability": 88}
+  ],
+  "note": "Used automatically when the live weather API is unreachable, so the demo never breaks on stage."
+}

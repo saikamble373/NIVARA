@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hz_hindmata",
+        "name": "Hindmata Junction",
+        "hazard_type": "flood",
+        "severity": "high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.8365, 19.0005], [72.8395, 19.0005],
+          [72.8395, 19.0035], [72.8365, 19.0035],
+          [72.8365, 19.0005]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hz_kurla",
+        "name": "Kurla Low-Lying Belt",
+        "hazard_type": "flood",
+        "severity": "high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.8780, 19.0700], [72.8830, 19.0700],
+          [72.8830, 19.0740], [72.8780, 19.0740],
+          [72.8780, 19.0700]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hz_sion",
+        "name": "Sion Circle",
+        "hazard_type": "waterlogging",
+        "severity": "moderate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.8600, 19.0430], [72.8630, 19.0430],
+          [72.8630, 19.0460], [72.8600, 19.0460],
+          [72.8600, 19.0430]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hz_andheri_subway",
+        "name": "Andheri Subway",
+        "hazard_type": "waterlogging",
+        "severity": "moderate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.8460, 19.1190], [72.8490, 19.1190],
+          [72.8490, 19.1215], [72.8460, 19.1215],
+          [72.8460, 19.1190]
+        ]]
+      }
+    }
+  ]
+}

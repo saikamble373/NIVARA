@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hindmata",
+        "risk_level": "HIGH",
+        "flood_prone": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.8420, 19.0000],
+          [72.8450, 19.0000],
+          [72.8450, 19.0030],
+          [72.8420, 19.0030],
+          [72.8420, 19.0000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurla",
+        "risk_level": "HIGH",
+        "flood_prone": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.8800, 19.0700],
+          [72.8850, 19.0700],
+          [72.8850, 19.0750],
+          [72.8800, 19.0750],
+          [72.8800, 19.0700]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sion",
+        "risk_level": "MODERATE",
+        "flood_prone": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.8600, 19.0400],
+          [72.8650, 19.0400],
+          [72.8650, 19.0450],
+          [72.8600, 19.0450],
+          [72.8600, 19.0400]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milan Subway",
+        "risk_level": "CRITICAL",
+        "flood_prone": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.8450, 19.0550],
+          [72.8500, 19.0550],
+          [72.8500, 19.0600],
+          [72.8450, 19.0600],
+          [72.8450, 19.0550]
+        ]]
+      }
+    }
+  ]
+}
